@@ -1,1 +1,1 @@
-//
+Qanda is a app
